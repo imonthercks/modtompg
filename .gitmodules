@@ -1,0 +1,3 @@
+[submodule "MOIParser"]
+	path = MOIParser
+	url = https://github.com/seanclifford/MOIParser.git
